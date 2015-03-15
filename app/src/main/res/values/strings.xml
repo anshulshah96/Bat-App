@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bat-App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="button1">Enter New Record</string>
+    <string name="button2">View DataBase</string>
+    <string name="title_activity_new_record">NewRecordActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_record">Enter The Details Of The Criminal</string>
+    <string name="criminal_name">Name</string>
+    <string name="criminal_age">Age</string>
+    <string name="Crimes">Crimes</string>
+    <string name="last_seen_location">Last Seen Location</string>
+    <string name="button3">Submit</string>
+    <string name="button_male">Male</string>
+    <string name="button_female">Female</string>
+    <string name="title_activity_view_records">ViewRecordsActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_criminal_display">CriminalDisplayActivity</string>
+    <string name="insImage">Select Image</string>
+
+</resources>

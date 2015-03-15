@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+
+    android:background="@drawable/bat1"
+    android:orientation="vertical">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button1"
+        android:id="@+id/button"
+        android:layout_gravity="top|center_horizontal"
+        android:clickable="true"
+        android:layout_marginTop="140dp"
+        android:onClick="newRecord"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="140dp"
+        android:padding="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Database"
+        android:id="@+id/button2"
+        android:layout_gravity="bottom|center_horizontal"
+        android:clickable="true"
+        android:layout_marginTop="140dp"
+        android:onClick="viewRecord"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="140dp"
+        android:padding="20dp" />
+</LinearLayout>
